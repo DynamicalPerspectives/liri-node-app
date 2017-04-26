@@ -1,0 +1,497 @@
+my-tweets, undefined: {
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+movie-this, out of africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "Metascore": "N/A",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg0ODYyMjk0MV5BMl5BanBnXkFtZTgwNzc2OTgzMTE@._V1_SX300.jpg",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter."
+}
+spotify-this-song, oblivion: {
+  "Artist": "Bastille",
+  "Song": "Oblivion",
+  "Link": "https://p.scdn.co/mp3-preview/1b474a0525fd1e4babda199098f782defa9d1188?cid=null",
+  "Album": "Bad Blood"
+}
+spotify-this-song, My Coco: {
+  "Artist": "stellastarr*",
+  "Song": "My Coco",
+  "Link": "https://p.scdn.co/mp3-preview/509327de5f16ae70ff735a3e82f618cb586fc91d?cid=null",
+  "Album": "stellastarr*"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+movie-this, Old School: {
+  "Title": "Old School",
+  "Year": "2003",
+  "Rating": "R",
+  "Country": "USA",
+  "Language": "English",
+  "Actors": "Luke Wilson, Will Ferrell, Vince Vaughn, Jeremy Piven",
+  "Metascore": "54",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2VjNDQ4MDctMDY3Yy00MmZmLTlhM2MtMWE4NjJhZTlmNTAxL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Plot": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater."
+}
+do-what-it-says, undefined: {
+  "Artist": "Backstreet Boys",
+  "Song": "I Want It That Way",
+  "Link": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+  "Album": "The Hits--Chapter One"
+}
+do-what-it-says, undefined: {
+  "Artist": "Backstreet Boys",
+  "Song": "I Want It That Way",
+  "Link": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null",
+  "Album": "The Hits--Chapter One"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+spotify-this-song, Chandelier: {
+  "Artist": "Sia",
+  "Song": "Chandelier",
+  "Link": "https://p.scdn.co/mp3-preview/f1898cf5fd5640d4f0d7faafa6c572fc29db3db6?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "Metascore": "N/A",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg0ODYyMjk0MV5BMl5BanBnXkFtZTgwNzc2OTgzMTE@._V1_SX300.jpg",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter."
+}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "Website": "N/A"
+}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "Metascore": "N/A",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg0ODYyMjk0MV5BMl5BanBnXkFtZTgwNzc2OTgzMTE@._V1_SX300.jpg",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter."
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "Metascore": "N/A",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter."
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen"
+}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, Out of Africa: {
+  "Title": "Out of Africa",
+  "Year": "1985",
+  "Rating": "PG",
+  "Country": "USA, UK",
+  "Language": "English, Swahili",
+  "Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+  "Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, : {
+  "TomatoURL": "https://rottentomatoes.com"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, : {
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, undefined: {
+  "Title": "Undefined",
+  "Year": "2014",
+  "Rating": "N/A",
+  "Country": "Lebanon",
+  "Language": "Arabic",
+  "Plot": "N/A",
+  "Actors": "Lina Samman, Nour Arida, Valerie Abou Chacra, Christine Choueiri",
+  "TomatoURL": "https://rottentomatoes.com"
+}
+my-tweets, undefined: "'A rainy Sunday is the best time to hunker down and study something new.'"
+movie-this, Mr. Nobody: {
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, Out of Africa: {
+  "TomatoURL": "https://rottentomatoes.com"
+}
+movie-this, Out of Africa: {
+  "TomatoURL": "https://rottentomatoes.com"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+movie-this, undefined: {
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rating": "R",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+spotify-this-song, Chandelier: {
+  "Artist": "Sia",
+  "Song": "Chandelier",
+  "Link": "https://p.scdn.co/mp3-preview/f1898cf5fd5640d4f0d7faafa6c572fc29db3db6?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+spotify-this-song, Borderline: {
+  "Artist": "Tove Styrke, Vanic",
+  "Song": "Borderline - Vanic Remix",
+  "Link": "https://p.scdn.co/mp3-preview/9f9297c416d0aef6f37edf282243e333857f9601?cid=null",
+  "Album": "Borderline (Vanic Remix)"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+my-tweets, undefined: {
+  "Tue Apr 25 18:56:56 +0000 2017": "'Just another one for the record.'",
+  "Tue Apr 25 18:56:12 +0000 2017": "'I'm hating this liri exercise with a passion.'",
+  "Tue Apr 25 17:58:31 +0000 2017": "'Still testing this durn thing out.'",
+  "Sun Apr 23 14:17:42 +0000 2017": "'Practicing some new acrylic techniques. https://t.co/peMUWVyv0i'",
+  "Sun Apr 23 14:15:37 +0000 2017": "'A rainy Sunday is the best time to hunker down and study something new.'"
+}
+do-what-it-says, undefined: {
+  "Artist": "Sia",
+  "Song": "Elastic Heart",
+  "Link": "https://p.scdn.co/mp3-preview/210b2f8ae1a4c2ecd40673fc3a0095159d821d62?cid=null",
+  "Album": "1000 Forms Of Fear (Deluxe Version)"
+}
